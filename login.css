@@ -29,3 +29,9 @@ button {
 button:hover {
     background-color: #005050;
 }
+
+.logo {
+	width: 100px;
+	margin-bottom: 20px;
+}
+
