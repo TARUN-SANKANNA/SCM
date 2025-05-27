@@ -3,7 +3,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url('bg.jgp.jpg') no-repeat center center/cover;
+    background: url('bg.jgp.jpg') no-repeat center cover;
+    background-size: cover;
     text-align: center;
     color: white;
 }
